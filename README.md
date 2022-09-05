@@ -1,4 +1,4 @@
-I am ... Ramteja Ponnaganti
+I am : Ramteja Ponnaganti
 Contact information : 4751, Belwood Green, Arbutus, Baltimore, Maryland, 21227
 Mobile : +91-9494436314
 Summary of your experience and career objectives : Knowledge of various machine learning algorithms such as Regression, Decision Trees, Random Forest, KNN, K-Means, SVM along with understanding ofstatistics. Knowledge of Python coding along with the awareness of data science libraries and statistical techniques. Strong exposure to data visualization tools such as Power BI and Tableau. I want to persuie my career in the field of Data Science.
