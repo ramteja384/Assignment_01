@@ -8,3 +8,4 @@ Business skills : Self and quick learner with excellent Problem solving, analyti
 Technical/computer skills : Advance Excel, Python, Machine Learning, SQL, Data Visualization, Statistical Modelling.
 Social activities : Regular Blood donor.
 Online Certifications: MySQL for Data Analytics and Business Intelligence, Python for Data Science. (A cognitiveclass.ai Powered by IBM Developer Skills Network),  Machine Learning with Python-Level 1. (A cognitiveclass.ai Powered by IBM Developer Skills Network)
+![](name of the image file)
