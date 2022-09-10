@@ -1,4 +1,4 @@
-![Ramteja_Profile](/assets/images/tux.png)
+![Ramteja_Profile](https://github.com/ramteja384/Assignment_01/blob/main/WhatsApp%20Image%202022-09-04%20at%2019.58.51.jpeg)
 
 **Name :** Ramteja Ponnaganti
 
