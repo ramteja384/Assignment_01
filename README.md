@@ -24,4 +24,7 @@
 
 **Social activities :** Regular Blood donor.
 
-**Online Certifications:** MySQL for Data Analytics and Business Intelligence, Python for Data Science. (A cognitiveclass.ai Powered by IBM Developer Skills Network),  Machine Learning with Python-Level 1. (A cognitiveclass.ai Powered by IBM Developer Skills Network)
+**Online Certifications:** 
++ MySQL for Data Analytics and Business Intelligence.
++  Python for Data Science. (A cognitiveclass.ai Powered by IBM Developer Skills Network)
++  Machine Learning with Python-Level 1. (A cognitiveclass.ai Powered by IBM Developer Skills Network)
