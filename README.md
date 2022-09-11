@@ -15,8 +15,12 @@
 **Business skills :** Self and quick learner with excellent Problem solving, analytical and communication skills. 
 
 **Technical/computer skills :** 
-*Advance Excel
-*Python, Machine Learning, SQL, Data Visualization, Statistical Modelling.
++ Advance Excel
++ Python
++ Machine Learning, 
++ SQL
++ Data Visualization
++ Statistical Modelling.
 
 **Social activities :** Regular Blood donor.
 
